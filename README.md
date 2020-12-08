@@ -21,13 +21,14 @@
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
+[<img align="left" alt="Visual Studio" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1200px-Visual_Studio_Icon_2019.svg.png" />][cssplaylist]
 [<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
 [<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
-[<img align="left" alt="Csharp" width="30px" src="https://berkarat.com/wp-content/uploads/2018/10/c-logo-696x748.png" />][cssplaylist]
-[<img align="left" alt="javascript" width="30px" src="https://www.sistemkod.com/images/blog/javascriptlogo.png" />][cssplaylist]
+[<img align="left" alt="C Sharp" width="30px" src="https://berkarat.com/wp-content/uploads/2018/10/c-logo-696x748.png" />][cssplaylist]
+[<img align="left" alt="JavaScript" width="30px" src="https://www.sistemkod.com/images/blog/javascriptlogo.png" />][cssplaylist]
 
 
-
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1200px-Visual_Studio_Icon_2019.svg.png
 
 <br />
 <br />
