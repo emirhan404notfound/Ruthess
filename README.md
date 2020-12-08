@@ -24,6 +24,7 @@
 [<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
 [<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
 [<img align="left" alt="Csharp" width="30px" src="https://berkarat.com/wp-content/uploads/2018/10/c-logo-696x748.png" />][cssplaylist]
+[<img align="left" alt="javascript" width="30px" src="https://www.sistemkod.com/images/blog/javascriptlogo.png" />][cssplaylist]
 
 
 
